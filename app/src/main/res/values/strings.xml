@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Meine Aufgaben</string>
+    <string name="widget_description">Offene Aufgaben sehen und direkt abhaken.</string>
+    <string name="new_task">Aufgabe hinzufügen</string>
+    <string name="completed_task">%1$s abhaken</string>
+</resources>
